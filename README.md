@@ -2,8 +2,7 @@
 
 A Flutter project that displays different crypto currency markets using coinapi
 
-![bitcoin_tracker](https://user-images.githubusercontent.com/53054854/192138552-6c7fc4f3-5054-4179-acaa-98026c8859ca.gif)
-
+<img src="https://user-images.githubusercontent.com/53054854/192138552-6c7fc4f3-5054-4179-acaa-98026c8859ca.gif" width="25%" height="25%"/>
 
 ## Getting Started
 To get started make sure you have setup a <a href="https://www.coinapi.io/">coinapi</a> account.
